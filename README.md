@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi! Ariella here
+
+Currently a senior undergrad in Health Informatics at São Paulo Federal University.
 
 <!--
 **ariellaaro/ariellaaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
